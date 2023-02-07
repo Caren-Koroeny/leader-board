@@ -1,0 +1,48 @@
+
+h1 {
+  margin-left: 50px;
+}
+
+#mainSection {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#left {
+  width: 45%;
+}
+
+#addscoresection {
+  width: 185px;
+}
+
+button {
+  width: 80px;
+  float: right;
+  padding: 3px;
+  border-radius: 5px;
+  outline: none;
+  color: #fff;
+  border: 1px solid rgb(205, 208, 209);
+  background-color: rgb(99, 100, 100);
+  box-shadow: 2px 6px #888;
+}
+
+ul {
+  list-style: none;
+  list-style-position: inside;
+  border: 2px solid black;
+}
+
+ul :nth-child(even) {
+  background-color: lightgray;
+}
+
+li {
+  margin-left: -2.5em;
+  padding: 5px;
+}
+
+input {
+  margin-bottom: 10px;
+}
