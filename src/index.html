@@ -9,19 +9,22 @@
         <title>leaderboard</title>
       </head>
       <body>
-        <nav class="logo-name">
-            <h1 class="align-self-center text-center">Leaderboard</h1></nav>
-
+        <section class="main-body">
+    
         <section class="container" class="d-flex flex-column gap-3 align-self-md-center" id="scores-section">
-          <div class="output-score">
+          
             <div class="output-head">
-            <h3 class="align-self-center text-center" id="recent">Recent scores</h3>
-            <h3 class="text-white fs-4 align-self-center text-center" id="no_recent">Click refresh to get your scores</h3>
-              <button id="refresh-button" type="submit" class="refresh-btn align-self-center">Refresh</button>
+            <h1 class="text-center">Leaderboard</h1>
+            <div class="refresher">
+              <h3 class="align-self-center text-center" id="recent">Recent scores</h3>
+              <button id="refresh-button" type="submit" class="refresh-btn fs-4 align-self-center text-center m-4">Refresh</button>
             </div>
+          
+            </div>
+            <div class="output-score">
             
-            <ul id="alluserscores" class="m-0 outputlist"></ul>
-              <li>Name: 500</li>
+            <ul id="allScores" class="outputlist">
+              <li>Name:  500</li>
               <li>Name: 450</li>
               <li>Name: 350</li>
               <li>Name: 300</li>
@@ -29,21 +32,21 @@
               <li>Name: 770</li>
               <li>Name: 420</li>
             </ul>
-          </div>
+            </div>
           </section>
 
-          <section class="d-flex flex-column align-self-center" id="addScore_section">
+          <section class="score-section" id="addScore_section">
             <div class="input-score">
-                <h3 class="text-center fs-1 mb-md-4 mb-2">Add your score</h3>
+                <h3 class="add-title text-center fs-1 mb-md-4 mb-2">Add your score</h3>
                 <form action="#" class="input-form" id="form">
                   <input type="text" id="username" class="input" placeholder="Your name" required />
-                  <input type="text" class="input" placeholder="Your score" />
+                  <input type="number" class="input" placeholder="Your score" />
                   <button type="submit" class="input-btn align-self-center" id="sub-btn">Submit</button>
                 </form>
               </div>
           
           </section>
-         
+        </section>
     
         <script src="index.js"></script>
       </body>
