@@ -44,16 +44,7 @@
     <li><a href="https://webpack.js.org/">Webpack</a></li>
   </ul>
 </details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-- **Static to-do list**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -75,7 +66,7 @@ Clone this repository to your desired folder using the above command:
 
 ```sh
   cd my-folder
-  git clone  git clone https://github.com/caren-koroeny/to-dolist-app.git
+  git clone  git clone git@github.com:Caren-Koroeny/leader-board.git
 ```
 
 ### Install
@@ -118,7 +109,7 @@ To run the project:
 <!-- Features -->
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[add functionalities]**
+* Impelement API's
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
