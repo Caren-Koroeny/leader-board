@@ -107,9 +107,11 @@ To run the project:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭Features <a name="future-features"></a>
 
-* Impelement css styling
+* Add Score
+* Add user name
+* Refresh Scores
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
