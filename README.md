@@ -9,7 +9,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [🔭Features](#future-features)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -48,7 +48,7 @@
 
 
 <!-- Features -->
-## 🔭Features <a name="future-features"></a>
+## Key Features <a name="key-features"></a>
 
 * Add Score
 * Add user name
