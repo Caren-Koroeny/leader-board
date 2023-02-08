@@ -109,7 +109,7 @@ To run the project:
 <!-- Features -->
 ## 🔭 Future Features <a name="future-features"></a>
 
-* Impelement API's
+* Impelement css styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
