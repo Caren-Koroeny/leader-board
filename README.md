@@ -9,13 +9,13 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -44,6 +44,16 @@
     <li><a href="https://webpack.js.org/">Webpack</a></li>
   </ul>
 </details>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- Features -->
+## Key Features <a name="key-features"></a>
+
+* Add Score
+* Add user name
+* Refresh Scores
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
@@ -106,12 +116,6 @@ To run the project:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Features -->
-## 🔭 Future Features <a name="future-features"></a>
-
-* Impelement API's
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 

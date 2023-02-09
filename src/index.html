@@ -13,26 +13,20 @@
   <main>
    <section id="mainSection">
     <section id="left">
-      <p>Recent scores <button>Refresh</button></p>
-      <section>
-        <ul>
-          <li>Name:  500</li>
-          <li>Name: 450</li>
-          <li>Name: 350</li>
-          <li>Name: 250</li>
-          <li>Name: 770</li>
-          <li>Name: 420</li>
-          <li>Name: 300</li>
-        </ul>
+      <p>Recent scores <button id="refresh-btn">Refresh</button></p>
+      <section >
+        <div id="displayScore">
+          <ul id="listcont"></ul>
+        </div>
       </section>
 
     </section>
     <section id="addscoresection">
       <h2>Add your Score</h2>
-      <form action="">
+      <form action="" id="form">
         <input type="text" name="username" id="userName" placeholder="Add your name" required>
         <input type="text" name="userscore" id="Score" placeholder="Your score" required>
-        <button type="submit"> Submit </button>
+        <button type="submit" id="getScores"> Submit </button>
       </form>
 
     </section>

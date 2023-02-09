@@ -31,7 +31,7 @@ button {
 ul {
   list-style: none;
   list-style-position: inside;
-  border: 2px solid black;
+  border: 2px solid rgb(121, 117, 117);
 }
 
 ul :nth-child(even) {
