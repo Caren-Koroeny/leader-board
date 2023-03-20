@@ -23,10 +23,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To-do List Project <a name="about-project"></a>
+# 📖 Leader Board Project <a name="about-project"></a>
 
 **My Leader Board Project** will not function when you uyou submit a name and a score to the form, the leaderboard list will not automatically update itself. It requires you to hit the refresh button to fetch all the data from the API. Note that my leaderboard does not sort the scores it just displays them as they are.API will be impelemented soon, this is a set up of how it will generally look like.
 
+
+![](./src/image/image1.png)
 ## 🛠 Built With <a name="built-with"></a>
 * HTML-5
 * CSS3
